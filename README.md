@@ -12,7 +12,7 @@ Create an HTML file and include the following code:
 </head>
 <body>
     <div class="container">
-        <h1>Auto Save Textarea :Ronak sharma</h1>
+        <h1>Auto Save Textarea :Sarika Singh</h1>
         <textarea id="myTextarea" rows="10" cols="20" placeholder="Start typing ...."></textarea>
     </div>
     <script src="index.js"></script>
